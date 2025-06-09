@@ -38,14 +38,14 @@ Dataset was obtained from the company and it consists if 1014 records and 7 colu
 
 ### *Data Cleaning and Transformation*
 
-. S/N column removed since it is same as that of Excel.
-. 2 duplicate record was found and removed from the raw data.
-. 43 Employees with ‘blank’ salary removed indicating they are no longer with the company.
-27 Employees with ‘Null’ department removed indicating they are no longer with the company.
-42 Employees with undisclosed gender: - generic genders (Male or female) were assigned for each employee based on their first name by using Excel data validation technique.
-Further scrutiny using conditional formatting showed there are more duplicate employee records with a difference in only ‘location’ and ‘ratings’ column which indicates location transfer.
-Based on the duplicate records, Excel formula was used to separate duplicate rows where only their new location record was retained.
-Further analysis was prompted to see how the employees are doing in their respective new location compared to old location. In order to achieve this, ‘rating’ column were represented by digits as Very Good, Good, Average, Poor, Very Poor, Not rated as 5,4,3,2,1,0 respectively.
+* S/N column removed since it is same as that of Excel.
+* 2 duplicate record was found and removed from the raw data.
+* 43 Employees with ‘blank’ salary removed indicating they are no longer with the company.
+* 27 Employees with ‘Null’ department removed indicating they are no longer with the company.
+* 42 Employees with undisclosed gender: - generic genders (Male or female) were assigned for each employee based on their first name by using Excel data validation technique.
+* Further scrutiny using conditional formatting showed there are more duplicate employee records with a difference in only ‘location’ and ‘ratings’ column which indicates location transfer.
+* Based on the duplicate records, Excel formula was used to separate duplicate rows where only their new location record was retained.
+* Further analysis was prompted to see how the employees are doing in their respective new location compared to old location. In order to achieve this, ‘rating’ column were represented by digits as Very Good, Good, Average, Poor, Very Poor, Not rated as 5,4,3,2,1,0 respectively.
 
 
 *REPORT & INSIGHTS*
