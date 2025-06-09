@@ -32,9 +32,11 @@ Select the appropriate visuals, to answer the questions below.
 
 ## Exploratory Data Analysis
 *Data Source*
+
 Dataset was obtained from the company and it consists if 1014 records and 7 columns including S/N, Name, Gender, Department, Salary, Location and Ratings.
 
 *Data Cleaning and Transformation*
+
 S/N column removed since it is same as that of Excel.
 2 duplicate record was found and removed from the raw data.
 43 Employees with ‘blank’ salary removed indicating they are no longer with the company.
@@ -45,6 +47,7 @@ Based on the duplicate records, Excel formula was used to separate duplicate row
 Further analysis was prompted to see how the employees are doing in their respective new location compared to old location. In order to achieve this, ‘rating’ column were represented by digits as Very Good, Good, Average, Poor, Very Poor, Not rated as 5,4,3,2,1,0 respectively.
 
 *REPORT & INSIGHTS*
+
 The Palmora Analysis provides a comprehensive view of key performance indicators, employee data, and organisational efficiency metrics. The data highlights various aspects such as workforce distribution, performance trends, and operational bottlenecks.
 
 70 Employees were found to be inactive with the company
@@ -59,12 +62,14 @@ $64,530,000 paid in Salary
 The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
 
 *** Performance Insights on Transferred Employees & Branches
+
 o	Employees who have adapted well to the new location show improved efficiency scores, stronger engagement, and higher productivity.
 o	Some employees exhibit a decline in performance, indicating possible challenges such as difficulty adjusting to the new environment or differing work expectations.
 o	Branches that receive high-performing employees benefit from increased operational effectiveness.
 o	Underperforming transferred employees may negatively impact the new branch while also struggling with their transition.
 
 *** Recommendations for Employee Performance Improvement
+
 •	For Employees Excelling in the New Location:
    o	Recognise and reward their adaptability to encourage continued high performance.
    o	Provide leadership or mentorship roles to maximise their impact in the new branch.
