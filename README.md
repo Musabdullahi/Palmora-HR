@@ -5,9 +5,9 @@
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Report & Insights](#REPORT-&-INSIGHTS)
-- [Recommendations](#Recommendations)
+- [Recommendations](#Recommendations-for-Employee-Performance-Improvement)
 - [Conclusion](#CONCLUSION)
-- 
+  
 # *Project Overview*
 As a data analyst intern directed to assist with HR analysis of Palmora Manufacturing Group. Dataset is collected from the company and have been required to perform basic data cleaning and data processing using necessary tools to prepare the data for analysis. Organize and present the data effectively. Design a dashboard, utilizing the power of grouping for enhanced data visualization and analysis.  
 
