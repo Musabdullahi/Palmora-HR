@@ -52,14 +52,14 @@ Dataset was obtained from the company and it consists if 1014 records and 7 colu
 
 The Palmora Analysis provides a comprehensive view of key performance indicators, employee data, and organisational efficiency metrics. The data highlights various aspects such as workforce distribution, performance trends, and operational bottlenecks.
 
-70 Employees were found to be inactive with the company
-140 duplicate employee records distilled to 70
-804 unique employee records
-874 Total Active Employees
-3 Branches; 12 Departments
-$64,530,000 paid in Salary
-36 Employees doing Good in new Location; 33 doing Bad 
-340 Kaduna, 308 Abuja, 226 Lagos
+* 70 Employees were found to be inactive with the company
+* 140 duplicate employee records distilled to 70
+* 804 unique employee records
+* 874 Total Active Employees
+* 3 Branches; 12 Departments
+* $64,530,000 paid in Salary
+* 36 Employees doing Good in new Location; 33 doing Bad 
+* 340 Kaduna, 308 Abuja, 226 Lagos
 
 The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
 
