@@ -5,7 +5,7 @@
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Report & Insights](#REPORT-and-INSIGHTS)
-- [Recommendations](Findings-and-Recommendations)
+- [Recommendations](#Findings-and-Recommendations)
 - [Conclusion](#CONCLUSION)
   
 # *Project Overview*
@@ -64,7 +64,7 @@ The Palmora Analysis provides a comprehensive view of key performance indicators
 The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
 
 
-## *Findings and Recommendations*
+## Findings and Recommendations
 
 ### Performance Insights on Transferred Employees & Branches
 
