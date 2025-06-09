@@ -61,10 +61,11 @@ The Palmora Analysis provides a comprehensive view of key performance indicators
 * 36 Employees doing Good in new Location; 33 doing Bad 
 * 340 Kaduna, 308 Abuja, 226 Lagos
 
-The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
-
 
 ## Findings and Recommendations
+
+The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
+
 ![image](https://github.com/user-attachments/assets/b25e295d-7048-4288-99d8-8ebc2d97aadb)
 
 ### Performance Insights on Transferred Employees & Branches
