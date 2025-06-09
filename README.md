@@ -4,7 +4,7 @@
 - [Case Questions](#POINTERS-FROM-STAKEHOLDER)
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
-- [Report & Insights](#REPORT-&-INSIGHTS)
+- [Report & Insights](#REPORT-and-INSIGHTS)
 - [Recommendations](#Recommendations-for-Employee-Performance-Improvement)
 - [Conclusion](#CONCLUSION)
   
@@ -48,7 +48,7 @@ Dataset was obtained from the company and it consists if 1014 records and 7 colu
 * Further analysis was prompted to see how the employees are doing in their respective new location compared to old location. In order to achieve this, ‘rating’ column were represented by digits as Very Good, Good, Average, Poor, Very Poor, Not rated as 5,4,3,2,1,0 respectively.
 
 
-### *REPORT & INSIGHTS*
+### *REPORT and INSIGHTS*
 
 The Palmora Analysis provides a comprehensive view of key performance indicators, employee data, and organisational efficiency metrics. The data highlights various aspects such as workforce distribution, performance trends, and operational bottlenecks.
 
