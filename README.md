@@ -5,7 +5,7 @@
 - [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
 - [Report & Insights](#REPORT-and-INSIGHTS)
-- [Recommendations](#Recommendations-for-Employee-Performance-Improvement)
+- [Recommendations](#***-Recommendations-for-Employee-Performance-Improvement)
 - [Conclusion](#CONCLUSION)
   
 # *Project Overview*
