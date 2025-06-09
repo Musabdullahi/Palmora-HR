@@ -65,6 +65,7 @@ The Dashboard reveals that employees with duplicate records have been intentiona
 
 
 ## Findings and Recommendations
+![image](https://github.com/user-attachments/assets/b25e295d-7048-4288-99d8-8ebc2d97aadb)
 
 ### Performance Insights on Transferred Employees & Branches
 
