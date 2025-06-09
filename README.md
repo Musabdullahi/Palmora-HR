@@ -48,7 +48,7 @@ Dataset was obtained from the company and it consists if 1014 records and 7 colu
 * Further analysis was prompted to see how the employees are doing in their respective new location compared to old location. In order to achieve this, ‘rating’ column were represented by digits as Very Good, Good, Average, Poor, Very Poor, Not rated as 5,4,3,2,1,0 respectively.
 
 
-*REPORT & INSIGHTS*
+### *REPORT & INSIGHTS*
 
 The Palmora Analysis provides a comprehensive view of key performance indicators, employee data, and organisational efficiency metrics. The data highlights various aspects such as workforce distribution, performance trends, and operational bottlenecks.
 
@@ -65,7 +65,7 @@ The Dashboard reveals that employees with duplicate records have been intentiona
 
 
 
-*** Performance Insights on Transferred Employees & Branches
+### *** Performance Insights on Transferred Employees & Branches
 
 o	Employees who have adapted well to the new location show improved efficiency scores, stronger engagement, and higher productivity.
 
@@ -77,7 +77,7 @@ o	Underperforming transferred employees may negatively impact the new branch whi
 
 
 
-*** Recommendations for Employee Performance Improvement
+### *** Recommendations for Employee Performance Improvement
 •	For Employees Excelling in the New Location:
 
    o	Recognise and reward their adaptability to encourage continued high performance.
