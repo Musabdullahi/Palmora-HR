@@ -19,12 +19,13 @@ The Palmora Analysis provides a comprehensive view of key performance indicators
 The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
 
 
-# POINTERS FROM STAKEHOLDER
+## POINTERS FROM STAKEHOLDER
 *	Generally, there are two genders in the organization. However, some employees refused to disclose their gender. You would need to assign a generic gender status to these employees.
 *	Some employees are without salary because they are no longer with the company. You will need to take those employees out 
 *	Lastly, some departments are indicated as “NULL”. These department would also need to be taken out.  
 
-*CASE QUESTIONS:*
+## *CASE QUESTIONS:*
+
 Select the appropriate visuals, to answer the questions below. 
 1. What is the gender distribution in the organization? Distil to regions and departments using slicers. 
 2. What is the Average Salary gotten by each Gender type. 
@@ -34,6 +35,7 @@ Select the appropriate visuals, to answer the questions below.
 *Data Source*
 
 Dataset was obtained from the company and it consists if 1014 records and 7 columns including S/N, Name, Gender, Department, Salary, Location and Ratings.
+
 
 *Data Cleaning and Transformation*
 
@@ -45,6 +47,7 @@ S/N column removed since it is same as that of Excel.
 Further scrutiny using conditional formatting showed there are more duplicate employee records with a difference in only ‘location’ and ‘ratings’ column which indicates location transfer.
 Based on the duplicate records, Excel formula was used to separate duplicate rows where only their new location record was retained.
 Further analysis was prompted to see how the employees are doing in their respective new location compared to old location. In order to achieve this, ‘rating’ column were represented by digits as Very Good, Good, Average, Poor, Very Poor, Not rated as 5,4,3,2,1,0 respectively.
+
 
 *REPORT & INSIGHTS*
 
@@ -61,22 +64,33 @@ $64,530,000 paid in Salary
 
 The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
 
+
 *** Performance Insights on Transferred Employees & Branches
 
 o	Employees who have adapted well to the new location show improved efficiency scores, stronger engagement, and higher productivity.
+
 o	Some employees exhibit a decline in performance, indicating possible challenges such as difficulty adjusting to the new environment or differing work expectations.
+
 o	Branches that receive high-performing employees benefit from increased operational effectiveness.
+
 o	Underperforming transferred employees may negatively impact the new branch while also struggling with their transition.
 
-*** Recommendations for Employee Performance Improvement
 
+*** Recommendations for Employee Performance Improvement
 •	For Employees Excelling in the New Location:
+
    o	Recognise and reward their adaptability to encourage continued high performance.
+   
    o	Provide leadership or mentorship roles to maximise their impact in the new branch.
+   
 •	For Employees Struggling in the New Location:
+
    o	Implement tailored training sessions to help them adjust to the new branch’s workflow and expectations.
+   
    o	Offer periodic performance reviews and structured feedback to guide their improvement.
+   
    o	Provide temporary assistance (training, guides) to facilitate a smoother transition.
+   
 
 ------------------------------------
 # *CONCLUSION*
