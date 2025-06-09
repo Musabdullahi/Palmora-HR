@@ -2,12 +2,11 @@
 
 - [Project Overview](#Project-Overview)
 - [Case Questions](#POINTERS-FROM-STAKEHOLDER)
-- [Skills](#skills)
-- [Data Source](#Data-Source)
+- [Exploratory Data Analysis](#Exploratory-Data-Analysis)
 - [Data Cleaning and Transformation](#Data-Cleaning-and-Transformation)
-- [REPORT & INSIGHTS](#REPORT-&-INSIGHTS)
+- [Report & Insights](#REPORT-&-INSIGHTS)
 - [Recommendations](#Recommendations)
-- [CONCLUSION](#CONCLUSION)
+- [Conclusion](#CONCLUSION)
 - 
 # *Project Overview*
 As a data analyst intern directed to assist with HR analysis of Palmora Manufacturing Group. Dataset is collected from the company and have been required to perform basic data cleaning and data processing using necessary tools to prepare the data for analysis. Organize and present the data effectively. Design a dashboard, utilizing the power of grouping for enhanced data visualization and analysis.  
@@ -65,6 +64,7 @@ $64,530,000 paid in Salary
 The Dashboard reveals that employees with duplicate records have been intentionally left by HR to track their efficiency in different branch locations. This strategy helps determine whether employees should be retained in the new location based on their performance or returned to their previous branch if they are underperforming.
 
 
+
 *** Performance Insights on Transferred Employees & Branches
 
 o	Employees who have adapted well to the new location show improved efficiency scores, stronger engagement, and higher productivity.
@@ -74,6 +74,7 @@ o	Some employees exhibit a decline in performance, indicating possible challenge
 o	Branches that receive high-performing employees benefit from increased operational effectiveness.
 
 o	Underperforming transferred employees may negatively impact the new branch while also struggling with their transition.
+
 
 
 *** Recommendations for Employee Performance Improvement
